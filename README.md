@@ -1,3 +1,3 @@
 # kafka-base
 
-kafka basics and kafka internals
+kafka basics and kafka \internals
